@@ -1,3 +1,7 @@
+
+# Exercise 1 reference:
+# https://adventofcode.com/2022/day/1
+
 def ejercicio1v2(fichero):
 
     lista_calorias = [(i+1, sum(map(int, e.splitlines())) )

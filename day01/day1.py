@@ -1,3 +1,7 @@
+
+# Exercise 1 reference:
+# https://adventofcode.com/2022/day/1
+
 def ejercicio1(lineas):
     last=0          # calorias almacenadas por el elfo actual
     max=(0,0)       # (max_calorias, elfo) hasta el momento
